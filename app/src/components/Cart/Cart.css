@@ -1,0 +1,9 @@
+.show-text {
+  display: block;
+}
+.show-table {
+  display: none;
+}
+.cart-elem {
+  display: none;
+}
